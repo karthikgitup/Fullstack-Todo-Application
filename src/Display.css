@@ -1,0 +1,31 @@
+.display-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+
+}
+.display-container tr th{
+    background-color:darkcyan;
+    padding: 10px;
+ 
+}
+.display-container table{
+    background-color: rgba(0, 139, 139, 0.464);
+    
+}
+.display-container td{
+    padding: 10px 20px;
+}
+.display-container h2{
+    padding-bottom: 20px;
+}
+ .display-container button{
+    padding: 5px 12px;
+    margin-left: 5px;
+    border: none;
+    background-color: rgb(28, 38, 65);
+    color: white;
+    border-radius: 8px;
+}
